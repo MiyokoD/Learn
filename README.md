@@ -1,3 +1,9 @@
 # Learn
 
-my
+#include <stdio.h>
+
+int main ()
+{
+    printf("kuy tork");
+    return 0;
+}
